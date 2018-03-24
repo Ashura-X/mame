@@ -2168,7 +2168,7 @@ msgstr "[criar]"
 #: src/frontend/mame/ui/filesel.cpp:419
 #, c-format
 msgid "Error accessing %s"
-msgstr ""
+msgstr "Erro acessando %s"
 
 #: src/frontend/mame/ui/filesel.cpp:515
 msgid "Select access mode"
@@ -2684,7 +2684,7 @@ msgstr "Atualmente salvo -- #"
 #: plugins/cheatfind/init.lua:536
 #, lua-format
 msgid "%d total matches found"
-msgstr ""
+msgstr "%d total de combinações encontradas"
 
 #: plugins/cheatfind/init.lua:543
 msgid "Compare"
